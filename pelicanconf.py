@@ -60,6 +60,8 @@ SUMMARY_MAX_LENGTH = 100
 
 DISQUS_SITENAME = u'minimum-viable-parenting'
 
+GOOGLE_ANALYTICS = u'UA-55662387-1'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
