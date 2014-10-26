@@ -16,8 +16,7 @@ In addition to these gems, I feel I can offer some more strategic advice. This i
 incomplete list of what I wasn't expecting when we were expecting:
 
 1. **You're not gonna remember this.**
-2. **Kill your identity.** [http://www.paulgraham.com/identity.html identity](Paul Graham argues)
-
+2. **Kill your identity.** [Paul Graham argues](http://www.paulgraham.com/identity.html "identity")
 
 
 [//]: # ( vim:ts=2:sw=2:tw=79:fdm=indent:syn=markdown:ft=markdown:ai:si:cin:nu:fo=croql:cino=p0t0c5(0    )
